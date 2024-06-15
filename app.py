@@ -12,6 +12,12 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 GITHUB_API_URL = "https://api.github.com"
 REPOS = [
+    "Creit-Tech/Stellar-Wallets-Kit",
+    "paltalabs/create-soroban-dapp",
+    "walnuthq/op-scan",
+    "influenceth/sdk",
+    "realm-of-ra/mancala",
+    "astraly-labs/hyperlane_starknet"
 ]
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 
