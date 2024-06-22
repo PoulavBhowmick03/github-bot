@@ -4,6 +4,12 @@
 
 `pip install -r requirements.txt`
 
-2. Run
+2. Setup the .env
+
+Run `cp .env.sample .env`
+Then setup the `.env` file
+
+3. Run
 
 `python app.py`
+
